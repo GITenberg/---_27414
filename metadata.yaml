@@ -1,0 +1,31 @@
+_repo: '---_27414'
+_version: 0.1.0
+alternative_title: Hao qiu zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mingjiaozhongren
+    aliases:
+    - Mingjiaozhongren, pseud.
+    - 明敎中人
+    - Ming-chiao-chung-jen, pseud.
+    - 名敎中人
+    - 名教中人, pseud.
+    gutenberg_agent_id: '32679'
+    url: http://www.gutenberg.org/2009/agents/32679
+description: ''
+gutenberg_issued: '2008-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27414'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction'
+- !lcc 'PL'
+title: 好逑傳
+url: http://www.gutenberg.org/ebooks/27414
